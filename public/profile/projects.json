@@ -1,0 +1,123 @@
+{
+    "projects" : [
+        {
+            "image": "images/projects/amaano.png",
+            "title": "amaano.com",
+            "bodyText": "- Developed front end experience to provide visitors seamless user experiences. \n - Built and implemented a Bitcoin Blockchain explorer to be included into the web application. \n - Initiated mobile app that allows users to send messages in real time. \n -  End to End encryption allowing user to send Bitcoin to other users.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://amaano.com"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "Reactjs",
+                "CSS3",
+                "BootStrap",
+                "HTML",
+                "Bitcoin"
+            ]
+        },
+        {
+            "image": "images/projects/tomferry.png",
+            "title": "TomFerry.com",
+            "bodyText": "- Assist in the management of the TomFerry.com website. \n - Collaboreted with technology manager and marketing team to address business goals and drive conversions. \n - Created and implemented graphics using Adobe Photoshop. \n - Handled changing deadlines and piorities while creating web pages to drive user retention and acquisition.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://tomferry.com"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "CSS3",
+                "BootStrap",
+                "HTML"
+            ]
+        },
+        {
+            "image": "images/projects/bitcoin.png",
+            "title": "Bitcoin Explorer",
+            "bodyText": "- Assembled a solo full-stack web application for Bitcoin users to view real-time data of the blockchain. \n - Developed a seamless user interface and user experience using React and Bootstrap. \n - Constructed the application using Babel as a compiler and Webpack as a module bundler. \n - Implemented Node.js and PostgreSQL to handle data management for the user.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://bitcoin-explorer-21.herokuapp.com/#/"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yi-Jacob/bitcoin-explorer"
+                }
+            ],
+            "tags": [
+                "Reactjs",
+                "JavaScript",
+                "CSS3",
+                "BootStrap",
+                "PostgreSQL",
+                "Nodejs",
+                "Babel",
+                "Webpack",
+                "HTML"
+            ]
+        },
+        {
+            "image": "images/projects/findhops.png",
+            "title": "Find Hoppiness",
+            "bodyText": "- Developed a search engine for the user to search for breweries using HTML, CSS and JavaScript. \n - Implemented Ajax, through an XMLHttpRequest, for the user to search breweries on the API. \n - Designed the application using Figma and the wireframing tools to provide a user-friendly experience.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://yi-jacob.github.io/find-hoppiness/"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yi-Jacob/find-hoppiness"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "CSS3",
+                "HTML"
+            ]
+        },
+        {
+            "image": "images/projects/codejournal.png",
+            "title": "Code Journal",
+            "bodyText": "- Built a dynamic HTML, CSS, and JavaScript journal application for coders who want to save their notes.. \n -  Implemented CSS media queries for mobile-responsiveness. \n - Applied JavaScript to the document to give the user the ability to upload images to view.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://yi-jacob.github.io/code-journal/"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yi-Jacob/code-journal"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "CSS3",
+                "HTML"
+            ]
+        },
+        {
+            "image": "images/projects/portfolio.png",
+            "title": "Portfolio",
+
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yi-Jacob/jacob-yi-portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+}

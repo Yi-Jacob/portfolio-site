@@ -1,0 +1,48 @@
+{
+    "experiences": [
+        {
+            "title": "Junior Web Developer",
+            "subtitle": "Tom Ferry",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Assist in the management of TomFerry.com website.",
+                "Collaborated with technology manager and other teammates to develop clean, engaging, functional, and appealing user interfaces.",
+                "Maintained, troubleshot and enchanced existing web pages.",
+                "Create and test landing pages for maximum ROI using analytics and metrics."
+            ],
+            "dateText": "03/2022 – Present"
+        },
+        {
+            "title": "Full-Stack Software Engineer",
+            "subtitle": "amaano",
+            "workType": "Contractor",
+            "workDescription": [
+                "Designed and developed new web applications.",
+                "Maintained and troubleshoot existing web applications.",
+                "Communicated with executive team to to adapt to changing industry standards and presented my findings and progress."
+            ],
+            "dateText": "03/2022 – Present"
+        },
+        {
+            "title": "Open Source Contributor",
+            "subtitle": "mempool.space",
+            "workType": "Open Source Contributor",
+            "workDescription": [
+                "Unit-test code for robustness, including edge cases, usability, and general reliability.",
+                "Worked on bug fixing and improving application performance.",
+                "Collaborated with team-members to implement new features."
+            ],
+            "dateText": "02/2022 – Present"
+        },
+        {
+            "title": "Full-Stack Web Development",
+            "subtitle": "Learning Fuze",
+            "workType": "Student",
+            "workDescription": [
+                "Programmed 10-12 hours a day for 14 weeks(800+ hours) in a simulated work environment.",
+                "Learned full-stack web development under the instruction of seniors with a combined 20+ years of experience."
+            ],
+            "dateText": "12/2021 – 03/2022"
+        }
+    ]
+}
