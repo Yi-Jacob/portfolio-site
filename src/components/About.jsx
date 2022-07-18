@@ -77,7 +77,7 @@ function About(props) {
 
                         </div>
                         <div className="col-md-3">
-                          <Card.Img src={data?.imageSource} alt="profile" />
+                          <img src={data.imageSource} alt="profile" />
                         </div>
                       </div>
                       </Card>
