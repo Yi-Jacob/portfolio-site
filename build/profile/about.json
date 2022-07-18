@@ -1,5 +1,4 @@
 {
     "about": " Hi, I'm Jacob, a full-stack web developer who has passion for building applications and a desire for making the world a better place through technology.\n\n\n I have built applications using JavaScript, React.js , Bootstrap, Tailwind, Rust, CSS3 and HTML. I also have experience using Node.js, Express and PostgreSQL to handle with data management. I started my developer journey learning on free resources like freeCodeCamp and CodeAcademy. I then wanted further guidance and a more set curriculum which came in the form of LearningFuze, a full-immersion web-development bootcamp. Not only did I learn full-stack web-development but also how to become a better learner.\n\n\n I am dependable, driven and committed to learning as much as possible. I am hard-working and willing to put in the time and effort to achieve my goals.\n\n\n Thank you for your time and please contact me with any further questions. ",
-    "imageSource": "images/about/profile.jpeg"
-
+    "imageSource": "/build/images/about/profile.jpeg"
 }
